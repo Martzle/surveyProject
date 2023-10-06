@@ -13,5 +13,5 @@ In order to run the server, run main. You will be prompted to make a survey then
 **CLIENT:**
 Run Client. You will enter an IP and then wait for a connection. After, you will answer the survey questions and the program will end.
 
-**NOTE: BOTH MACHINES MUST HAVE ALL FILES INSTALLED**
+**NOTE: ONLY THE SERVER NEEDS TO HAVE ALL THE FILES. THE CLIENT ONLY NEEDS TO HAVE CLIENT INSTALLED**
 
